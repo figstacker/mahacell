@@ -1,0 +1,129 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login to MahaCell",
+      "tagline": "Easy & Fast Digital Payment",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "pinLabel": "PIN",
+      "pinPlaceholder": "Enter your PIN",
+      "loginButton": "Login",
+      "forgotPin": "Forgot PIN?",
+      "registerLink": "Create New Account"
+    },
+    "register": {
+      "title": "Create New Account",
+      "step1": "Personal Data",
+      "step2": "Verification",
+      "step3": "PIN",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "email": "Email (Optional)",
+      "emailPlaceholder": "Enter email",
+      "next": "Next",
+      "back": "Back"
+    },
+    "otp": {
+      "title": "OTP Verification",
+      "description": "Enter the OTP code sent to",
+      "resend": "Resend",
+      "resendIn": "Resend in {{seconds}}s",
+      "verify": "Verify"
+    },
+    "pinSetup": {
+      "title": "Create PIN",
+      "confirmTitle": "Confirm PIN",
+      "description": "Create a 6-digit PIN for your account security",
+      "confirmDescription": "Re-enter your PIN",
+      "success": "PIN created successfully!"
+    }
+  },
+  "home": {
+    "greeting": "Hello, {{name}}",
+    "saldo": "MahaCell Balance",
+    "topUp": "Top Up",
+    "transfer": "Transfer",
+    "services": "Services",
+    "promo": "Promo",
+    "recentTransactions": "Recent Transactions",
+    "seeAll": "See All"
+  },
+  "services": {
+    "pulsa": "Credit",
+    "paketData": "Data Package",
+    "tokenListrik": "Electric Token",
+    "eWallet": "E-Wallet",
+    "tagihanListrik": "Electric Bill",
+    "pdam": "Water Bill",
+    "bpjs": "Health Insurance",
+    "internet": "Internet",
+    "kredit": "Loan",
+    "qris": "QRIS"
+  },
+  "navigation": {
+    "beranda": "Home",
+    "riwayat": "History",
+    "notifikasi": "Notifications",
+    "akun": "Account"
+  },
+  "transaction": {
+    "new": "New Transaction",
+    "confirm": "Confirm Transaction",
+    "status": "Transaction Status",
+    "product": "Product",
+    "destination": "Destination",
+    "price": "Price",
+    "adminFee": "Admin Fee",
+    "total": "Total",
+    "payNow": "Pay Now",
+    "enterPin": "Enter PIN",
+    "success": "Transaction Successful",
+    "failed": "Transaction Failed",
+    "pending": "Processing",
+    "share": "Share",
+    "back": "Back",
+    "tryAgain": "Try Again",
+    "reportIssue": "Report Issue"
+  },
+  "account": {
+    "title": "My Account",
+    "editProfile": "Edit Profile",
+    "security": "Security",
+    "language": "Language",
+    "help": "Help",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "logout": "Logout",
+    "version": "Version"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "refresh": "Refresh"
+  },
+  "wallet": {
+    "balance": "Balance",
+    "topup": "Top Up Balance",
+    "history": "Balance History",
+    "selectAmount": "Select Amount",
+    "customAmount": "Custom Amount",
+    "paymentMethod": "Payment Method",
+    "confirm": "Confirm Top Up"
+  },
+  "qris": {
+    "scan": "Scan QR Code",
+    "pay": "Pay with QRIS",
+    "merchant": "Merchant",
+    "amount": "Amount",
+    "flashlight": "Flashlight",
+    "gallery": "Gallery"
+  }
+}
