@@ -1,0 +1,129 @@
+{
+  "auth": {
+    "login": {
+      "title": "Masuk ke MahaCell",
+      "tagline": "Pembayaran Digital Mudah & Cepat",
+      "phoneLabel": "Nomor HP",
+      "phonePlaceholder": "Masukkan nomor HP Anda",
+      "pinLabel": "PIN",
+      "pinPlaceholder": "Masukkan PIN",
+      "loginButton": "Masuk",
+      "forgotPin": "Lupa PIN?",
+      "registerLink": "Daftar Akun Baru"
+    },
+    "register": {
+      "title": "Daftar Akun Baru",
+      "step1": "Data Diri",
+      "step2": "Verifikasi",
+      "step3": "PIN",
+      "fullName": "Nama Lengkap",
+      "fullNamePlaceholder": "Masukkan nama lengkap",
+      "phone": "Nomor HP",
+      "phonePlaceholder": "Masukkan nomor HP",
+      "email": "Email (Opsional)",
+      "emailPlaceholder": "Masukkan email",
+      "next": "Lanjut",
+      "back": "Kembali"
+    },
+    "otp": {
+      "title": "Verifikasi OTP",
+      "description": "Masukkan kode OTP yang telah dikirim ke",
+      "resend": "Kirim Ulang",
+      "resendIn": "Kirim Ulang dalam {{seconds}}s",
+      "verify": "Verifikasi"
+    },
+    "pinSetup": {
+      "title": "Buat PIN",
+      "confirmTitle": "Konfirmasi PIN",
+      "description": "Buat PIN 6 digit untuk keamanan akun Anda",
+      "confirmDescription": "Masukkan ulang PIN Anda",
+      "success": "PIN berhasil dibuat!"
+    }
+  },
+  "home": {
+    "greeting": "Halo, {{name}}",
+    "saldo": "Saldo MahaCell",
+    "topUp": "Top Up",
+    "transfer": "Transfer",
+    "services": "Layanan",
+    "promo": "Promo",
+    "recentTransactions": "Transaksi Terakhir",
+    "seeAll": "Lihat Semua"
+  },
+  "services": {
+    "pulsa": "Pulsa",
+    "paketData": "Paket Data",
+    "tokenListrik": "Token Listrik",
+    "eWallet": "E-Wallet",
+    "tagihanListrik": "Tagihan Listrik",
+    "pdam": "PDAM",
+    "bpjs": "BPJS",
+    "internet": "Internet",
+    "kredit": "Kredit",
+    "qris": "QRIS"
+  },
+  "navigation": {
+    "beranda": "Beranda",
+    "riwayat": "Riwayat",
+    "notifikasi": "Notifikasi",
+    "akun": "Akun"
+  },
+  "transaction": {
+    "new": "Transaksi Baru",
+    "confirm": "Konfirmasi Transaksi",
+    "status": "Status Transaksi",
+    "product": "Produk",
+    "destination": "Tujuan",
+    "price": "Harga",
+    "adminFee": "Biaya Admin",
+    "total": "Total",
+    "payNow": "Bayar Sekarang",
+    "enterPin": "Masukkan PIN",
+    "success": "Transaksi Berhasil",
+    "failed": "Transaksi Gagal",
+    "pending": "Sedang Diproses",
+    "share": "Bagikan",
+    "back": "Kembali",
+    "tryAgain": "Coba Lagi",
+    "reportIssue": "Laporkan Masalah"
+  },
+  "account": {
+    "title": "Akun Saya",
+    "editProfile": "Edit Profil",
+    "security": "Keamanan",
+    "language": "Bahasa",
+    "help": "Bantuan",
+    "darkMode": "Mode Gelap",
+    "lightMode": "Mode Terang",
+    "logout": "Keluar",
+    "version": "Versi"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Berhasil",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "delete": "Hapus",
+    "search": "Cari",
+    "filter": "Filter",
+    "refresh": "Segarkan"
+  },
+  "wallet": {
+    "balance": "Saldo",
+    "topup": "Top Up Saldo",
+    "history": "Riwayat Saldo",
+    "selectAmount": "Pilih Nominal",
+    "customAmount": "Nominal Lainnya",
+    "paymentMethod": "Metode Pembayaran",
+    "confirm": "Konfirmasi Top Up"
+  },
+  "qris": {
+    "scan": "Scan QR Code",
+    "pay": "Bayar dengan QRIS",
+    "merchant": "Merchant",
+    "amount": "Nominal",
+    "flashlight": "Lampu",
+    "gallery": "Galeri"
+  }
+}
